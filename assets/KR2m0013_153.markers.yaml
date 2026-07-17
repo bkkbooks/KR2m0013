@@ -2371,6 +2371,7 @@ markers:
   - {type: line-break, offset: 6019, content: '', id: KR2m0013_WYG_153-23a03}
   - {type: substitution, offset: 6019, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 6031, content: (, id: KR2m0013_krp_153-bkkpn1}
+  - {type: voice, offset: 6031, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 6033, content: /, id: KR2m0013_krp_153-bkkpn2}
   - {type: substitution, offset: 6033, original: 两, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16494}}
   - {type: punctuation, offset: 6035, content: ), id: KR2m0013_krp_153-bkkpn3}
@@ -2397,6 +2398,7 @@ markers:
   - {type: line-break, offset: 6081, content: '', id: KR2m0013_WYG_153-23a07}
   - {type: substitution, offset: 6081, original: 㫖, replacement: 旨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0003}}
   - {type: punctuation, offset: 6093, content: (, id: KR2m0013_krp_153-bkkpn4}
+  - {type: voice, offset: 6093, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 6095, content: /, id: KR2m0013_krp_153-bkkpn5}
   - {type: substitution, offset: 6095, original: 两, replacement: 兩, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16494}}
   - {type: punctuation, offset: 6097, content: ), id: KR2m0013_krp_153-bkkpn6}
@@ -4112,4 +4114,4 @@ markers:
 
       ', id: KR2m0013_krp_153-bkkkrnewl700}
   back: []
-hash: sha256:21da253a0a55b5174f060b1375d92333b1137721bd4e7dafcaadb04d162a9329
+hash: sha256:e4a0cc56ba8cef1f474c55e52023a588da48000a4d9c6a6628806bceffc6c107

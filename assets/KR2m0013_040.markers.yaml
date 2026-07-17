@@ -3529,6 +3529,7 @@ markers:
   - {type: line-break, offset: 9753, content: '', id: KR2m0013_WYG_040-36a07}
   - {type: indent, offset: 9753, content: 　　　, id: KR2m0013_krp_040-bkkind557}
   - {type: punctuation, offset: 9754, content: (, id: KR2m0013_krp_040-bkkpn1}
+  - {type: voice, offset: 9754, length: 4, name: note, id: n1}
   - {type: substitution, offset: 9755, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 9756, content: /, id: KR2m0013_krp_040-bkkpn2}
   - {type: punctuation, offset: 9758, content: ), id: KR2m0013_krp_040-bkkpn3}
@@ -5242,6 +5243,7 @@ markers:
   - {type: line-break, offset: 14852, content: '', id: KR2m0013_WYG_040-53b05}
   - {type: indent, offset: 14852, content: 　, id: KR2m0013_krp_040-bkkind820}
   - {type: punctuation, offset: 14853, content: (, id: KR2m0013_krp_040-bkkpn4}
+  - {type: voice, offset: 14853, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 14856, content: /, id: KR2m0013_krp_040-bkkpn5}
   - {type: punctuation, offset: 14859, content: ), id: KR2m0013_krp_040-bkkpn6}
   - {type: 'kr:non-cjk', offset: 14859, content: ○, id: KR2m0013_krp_040-bkkkrnonc145}
@@ -5912,6 +5914,7 @@ markers:
   - {type: line-break, offset: 16795, content: '', id: KR2m0013_WYG_040-60a08}
   - {type: indent, offset: 16795, content: 　　, id: KR2m0013_krp_040-bkkind927}
   - {type: punctuation, offset: 16801, content: (, id: KR2m0013_krp_040-bkkpn7}
+  - {type: voice, offset: 16801, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 16804, content: /, id: KR2m0013_krp_040-bkkpn8}
   - {type: punctuation, offset: 16807, content: ), id: KR2m0013_krp_040-bkkpn9}
   - {type: 'kr:newline', offset: 16807, content: '
@@ -7651,4 +7654,4 @@ markers:
 
       ', id: KR2m0013_krp_040-bkkkrnewl1384}
   back: []
-hash: sha256:85adeed737230d906e1c92ed049f4af6d81334f785b1bf46e6858306a17d2adc
+hash: sha256:bca4dc5951fb5545bc37d1a5ea8b6eb841e6189eb46ac779700e52c24385a670
